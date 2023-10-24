@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Kipngeno Kirui. I am currently a Lead Data Scientist in the Financial Industry.
 - 👀 I'm interested in Data Science, Machine Learning, Deep Learning and Credit Scoring.
 - 🌱 I have been involved in many projects in Data Science, including building and testing state-of-art machine learning models, developing and validation of financial scoring models and deployment and monitoring of models in production, just to mention a few.
+- 🔭 I’m currently working on credit scoring models in Financial Industry. 
+- 🌱 I’m currently learning Data structures and Algorithms. 
+- 💬 Ask me about Data Science, Machine Learning, Deep Learning and Credit Scoring. 
 
-### Skills
+Skills: Python/R/SQL/Julia/Java
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -13,13 +16,15 @@
   
 </p>
 
-⚡ Understanding requirements of the institution and consulting for the projects, academic, research papers, tools recommendations to enhance the performance with Artiﬁcial Intelligence and Machine Learning. 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kirui93)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kipngeno-kirui/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kirui93.github.io/about/)  
 
-⚡ Monitoring and generating Analytical reports on the institution data for admission and academics. Conducted more than 200 webinars on Data Science and Artiﬁcial Intelligence. 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirui93)](https://github.com/anuraghazra/github-readme-stats)
 
-⚡ Worked with data, applying statistical models, designing the ﬂow of the data product, and monitoring the end-to-end products. 😄 Worked on different projects in multiple domains like Finance, Education, Healthcare, Public Sector. 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kirui93&show_icons=true)  
 
-⚡ Solved complex problems with Natural Language Processing personal projects. Advertising Analytics using machine learning models. 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kirui93)  
+
+![Profile views](https://gpvc.arturio.dev/kirui93)  
 
 
 <!---
